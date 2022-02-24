@@ -19,9 +19,9 @@
 <br />
 <div>
   <p>
-    <a href="https://github.com/kpwhri/sentinel_ap">
+    <!--a href="https://github.com/kpwhri/sentinel_ap">
       <img src="images/logo.png" alt="Logo">
-    </a>
+    </a-->
   </p>
 
   <h2 align="center">Detection of Acute Pancreatitis (Project of Sentinel Initiative)</h2>
