@@ -92,6 +92,10 @@ The pipeline for developing a model to determine Acute Pancreatitis will involve
 `TODO:`
 
 
+### 4. Running Model
+
+`TODO:`
+
 ## Versions
 
 <!-- Uses [SEMVER](https://semver.org/). -->
