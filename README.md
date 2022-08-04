@@ -83,13 +83,19 @@ The pipeline for developing a model to determine Acute Pancreatitis will involve
 1. `TODO: How was corpus selected?`
 2. Run [`apanc-runrex`](https://github.com/kpwhri/apanc-runrex/) application on assembled notes.
 
-### 2. Extracting Structured Data
+### 2. Create Lab covariate data
 
-`TODO:`
+1.  `TODO: Intro to lab data covariates package`
+2. Download and run SAS program package abc
+
+### 3. Extracting Structured Data
+
+1. `TODO: Intro to extraction`
+2. Download and run SAS program package xyz
 
 ### 3. Merge Datasets
 
-`TODO:`
+`TODO: How was this done?`
 
 
 ### 4. Running Model
