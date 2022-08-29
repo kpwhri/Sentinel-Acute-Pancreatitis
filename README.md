@@ -143,7 +143,7 @@ Please use the [issue tracker](https://github.com/kpwhri/sentinel_ap/issues).
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* This work was funded as part of the [Sentinel Initiative](https://www.fda.gov/safety/fdas-sentinel-initiative).
+* NEEDS EDITING: This work was funded as part of the [Sentinel Initiative](https://www.fda.gov/safety/fdas-sentinel-initiative).
 
 
 
