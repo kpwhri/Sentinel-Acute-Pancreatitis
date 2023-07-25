@@ -140,11 +140,15 @@ Distributed under the MIT License. See `LICENSE` or https://kpwhri.mit-license.o
 Please use the [issue tracker](https://github.com/kpwhri/sentinel_ap/issues). 
 
 
+## Disclaimer
+
+* This is not a Sentinel Initiative-supported project.
+
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* NEEDS EDITING: This work was funded as part of the [Sentinel Initiative](https://www.fda.gov/safety/fdas-sentinel-initiative).
-
+* This work was funded as part of the [Sentinel Initiative](https://www.fda.gov/safety/fdas-sentinel-initiative).
+  * However, this is not a Sentinel Initiative-supported project.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
